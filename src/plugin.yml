@@ -1,0 +1,5 @@
+main: io.bigseed.travelsign.Plugin
+name: TravelSign
+version: 0.0.1
+description: A sign to make a player travel
+api-version: 1.18

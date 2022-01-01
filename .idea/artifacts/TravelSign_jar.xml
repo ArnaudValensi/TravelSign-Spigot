@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TravelSign:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TravelSign_jar</output-path>
+    <root id="archive" name="TravelSign.jar">
+      <element id="module-output" name="TravelSign" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
